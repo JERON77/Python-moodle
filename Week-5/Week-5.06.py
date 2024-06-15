@@ -18,7 +18,7 @@ Sample Case 0
 
 Sample Input 0
 
-10
+10 
 
 3
 
