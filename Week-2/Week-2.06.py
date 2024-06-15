@@ -15,7 +15,7 @@ Output Format:
 Display True(IF ELIGIBLE)
 
 Display False (if not eligible)
-
+ 
 Sample Input
 
 19
