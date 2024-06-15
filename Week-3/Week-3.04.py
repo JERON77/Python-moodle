@@ -18,7 +18,7 @@ Input consists of 2 integers.
 
  Input
 
- 8
+ 8 
 
  3
 
