@@ -6,7 +6,7 @@ Output Format: Print the result of the division or an error message if an except
 
 
 
-
+ 
 
 For example:
 
