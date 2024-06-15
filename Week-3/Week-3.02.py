@@ -17,7 +17,7 @@ Sample Output 1
 That's a equilateral triangle
 
 
-
+ 
 
 
 For example:
