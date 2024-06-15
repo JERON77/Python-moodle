@@ -23,7 +23,7 @@ as input is 4, have to take 4 terms.
 
 
 
-
+ 
 Test Case 2
 
 Input 
