@@ -18,7 +18,7 @@ The binary representation of 3 is 011, hence there are 2 ones in it. so the outp
 
 a=int(input())
 
-n=bin(a)
+n=bin(a) 
 
 n=n.replace("0b","")
 
