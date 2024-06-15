@@ -21,7 +21,7 @@ For example:
 Input	Result
 
 hello world
-
+ 
 ad	1
 
 
