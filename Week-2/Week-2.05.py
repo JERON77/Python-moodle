@@ -16,7 +16,7 @@ Balance as of end of Year 3: $11248.64
 
 
 
-a=int(input())
+a=int(input()) 
 
 b=(a*0.04)+a
 
