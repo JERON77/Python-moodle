@@ -22,7 +22,7 @@ We have four Candidates with name as 'John', 'Johnny', 'jamie', 'jackie'. The ca
 
 Sample Input:
 
-10
+10 
 
 John
 
