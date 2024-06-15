@@ -12,7 +12,7 @@ Output: ["sweet","sour"]
 
 Example 2:
 
-
+ 
 
 Input: s1 = "apple apple", s2 = "banana"
 
