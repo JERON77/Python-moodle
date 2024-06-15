@@ -24,7 +24,7 @@ Sample input:
 
 James 67 89 56
 
-Lalith 89 45 45
+Lalith 89 45 45 
 
 Ram 89 89 89
 
