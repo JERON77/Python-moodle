@@ -20,7 +20,7 @@ Input	Result
 
 rec	Error: invalid literal for int()
 
- 
+  
 
 def main():
 
