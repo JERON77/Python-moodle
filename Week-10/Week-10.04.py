@@ -3,7 +3,7 @@ Binary Search
 Write a Python program for binary search.
 
 
-
+ 
 For example:
 
 Input	Result
