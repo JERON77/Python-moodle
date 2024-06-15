@@ -22,7 +22,7 @@ Input
 
 60
 
-80
+80 
 
 Output 
 
