@@ -20,7 +20,7 @@ Display the merged array
 
 Sample Input 1
 
-
+ 
 
 5
 
