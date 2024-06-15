@@ -18,7 +18,7 @@ print(absolute_number)
 
 # Output:20
 
-
+ 
 
  Sample Input:
 
