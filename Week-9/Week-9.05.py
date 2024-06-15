@@ -16,7 +16,7 @@ Points Letters
 
 1 A, E, I, L, N, O, R, S, T and U
 
-2 D and G
+2 D and G 
 
 3 B, C, M and P
 
