@@ -21,7 +21,7 @@ Input	Result
 rec	Error: could not convert string to float
 
 try:
-
+ 
     a=float(input())
 
     if(a<0):
