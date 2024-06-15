@@ -19,7 +19,7 @@ If the given number is 22, the function should return 0 because there are NO non
 For example:
 
 Input	Result
-
+ 
 292	1
 
 1015	2
