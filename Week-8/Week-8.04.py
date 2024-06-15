@@ -21,7 +21,7 @@ Output: 3
 For example:
 
 Input	Result
-
+ 
 1 3 4 4 2	4
 
 
