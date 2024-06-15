@@ -18,7 +18,7 @@ Output
 
 Print an integer representing the discount value for the given total bill amount.
 
-Example Input
+Example Input 
 
 578
 
