@@ -18,7 +18,7 @@ Output: ["AAAAACCCCC","CCCCCAAAAA"]
 
 Example 2:
 
-Input: s = "AAAAAAAAAAAAA"
+Input: s = "AAAAAAAAAAAAA" 
 
 Output: ["AAAAAAAAAA"]
 
