@@ -19,7 +19,7 @@ Output:
 16
 
 
-
+ 
 a=int(input())
 
 c=[]
