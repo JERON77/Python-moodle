@@ -14,6 +14,6 @@ The tax is 5.00 and the tip is 18.00, making the total 123.00
 
 
 
-a=int(input())
+a=int(input()) 
 
 print("The tax is {:.2f} and the tip is {:.2f}, making the total {:.2f}".format((a*0.05),(a*0.18),(a+((a*0.05)+(a*0.18)))))
