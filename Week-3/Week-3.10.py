@@ -5,7 +5,7 @@ The Chinese zodiac assigns animals to years in a 12 year cycle. One 12 year cycl
 Year Animal
 
 2000 Dragon
-
+ 
 2001 Snake
 
 2002 Horse
