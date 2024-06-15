@@ -11,7 +11,7 @@ Develop a Python program that reads a series of book titles and their correspond
 
 
 Input Format:
- 
+  
 
 
 The input will be provided in lines where each line contains a book title and its genre separated by a comma.
