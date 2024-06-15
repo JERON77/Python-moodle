@@ -18,7 +18,7 @@ Explanation : Sorted by sum, and replaced.
 
 2
 
-Gfg 6 7 4
+Gfg 6 7 4 
 
 Best 7 6 5
 
