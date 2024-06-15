@@ -23,7 +23,7 @@ Sample Input:
 Sample Output:'
 
 False
-
+ 
 
 
 a=int(input())
