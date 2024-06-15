@@ -25,7 +25,7 @@ Sample test case
 Sample input
 
 2
-
+ 
 2
 
 1 
