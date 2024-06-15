@@ -15,7 +15,7 @@ Input	Result
 	3 4 5 6 8
 
 
-
+ 
 
 
 a=int(input())
