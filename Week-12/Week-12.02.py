@@ -27,7 +27,7 @@ def is_power_of_four(n):
     return True
 
  
-
+ 
 # Test the function
 
 n = int(input())
