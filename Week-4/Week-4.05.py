@@ -26,7 +26,7 @@ i.e. Fibonacci series starts with 0 and 1, and continues generating the next num
 
 
 
-For example:
+For example: 
 
 Input:
 
