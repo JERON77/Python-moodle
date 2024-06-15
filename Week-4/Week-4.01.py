@@ -20,5 +20,5 @@ for i in range(1,k+1):
 
 for j in l:
 
-    print(j,end=' ')
+    print(j,end=' ') 
 
