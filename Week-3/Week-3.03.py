@@ -20,7 +20,7 @@ Test Case 1
 
 Input
 
-50 
+50  
 
 Output
 
