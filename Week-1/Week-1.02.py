@@ -3,7 +3,7 @@ Gross Salary
 Ramesh’s basic salary is input through the keyboard. His dearness allowance is 40% of his basic salary, and his house rent allowance is 20% of his basic salary. Write a program to calculate his gross salary.
 
 
-
+ 
 Sample Input:
 
 10000
@@ -21,7 +21,7 @@ Input	Result
 
 
 
-
+ 
 
 
 s=int(input())
