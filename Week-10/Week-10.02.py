@@ -17,7 +17,7 @@ First Element: 1
 Last Element: 6   
 
 
-
+ 
 Input Format
 
 The first line contains an integer,n , the size of the list a .
