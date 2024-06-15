@@ -15,7 +15,7 @@ Input	Result
 197	9
 
 
-
+ 
 a=int(input())
 
 b=str(abs(a))
