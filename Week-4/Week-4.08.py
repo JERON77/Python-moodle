@@ -18,7 +18,7 @@ Input	Result
 
 1015	3
 
-
+ 
 
 a=int(input())
 
