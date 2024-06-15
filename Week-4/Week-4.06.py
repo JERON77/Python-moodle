@@ -12,7 +12,7 @@ Output Format:
 
 Yes or No.
 
-Example Input:
+Example Input: 
 
 175
 
