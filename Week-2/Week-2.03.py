@@ -20,7 +20,7 @@ SAMPLE INPUT AND OUTPUT:
 
 25
 
-12  
+12   
 
 10  
 
