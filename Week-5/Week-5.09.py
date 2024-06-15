@@ -28,7 +28,7 @@ Sample Test Cases
 
 
 
-Test Case 1
+Test Case 1 
 
 Input
 
