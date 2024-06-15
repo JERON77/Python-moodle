@@ -26,7 +26,7 @@ Output:
 
 No
 
-For example:
+For example: 
 
 Input	Result
 
