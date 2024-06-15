@@ -20,7 +20,7 @@ Input	Result
 
 rec	Error: could not convert string to float
 
-try:
+try: 
  
     a=float(input())
 
