@@ -13,7 +13,7 @@ If it is an automorphic number display “Automorphic” else display “Not Aut
 Input Format:
 
 Take a Integer from Stdin 
-
+ 
 Output Format: 
 
 Print Automorphic if given number is Automorphic number, otherwise Not Automorphic 
