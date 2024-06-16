@@ -7,7 +7,7 @@ Two string values S1, S2 are passed as the input. The program must print first N
 Input Format:
 
 
-
+ 
 The first line contains S1.
 
 The second line contains S2.
