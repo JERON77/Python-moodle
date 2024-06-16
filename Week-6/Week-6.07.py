@@ -20,7 +20,7 @@ As we ignore '&' and then reverse, so answer is "B&A".
 
 
 
-For example:
+For example: 
 
 
 
