@@ -27,7 +27,7 @@ NOTE 2: The result should have no leading or trailing spaces.
 For example:
 
 
-
+ 
 Input	Result
 
 Wipro Technologies Bangalore
