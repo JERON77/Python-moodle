@@ -24,7 +24,7 @@ Boundary Condition:
 
 1 <= Length of S <= 100
 
-
+ 
 
 Example Input/Output 1:
 
